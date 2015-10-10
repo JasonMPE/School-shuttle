@@ -1,7 +1,7 @@
 
 =======
-# School-shuttle
-school-shuttle-app
+## School-shuttle
+school-shuttle
 
 ##Project Goals:
 
