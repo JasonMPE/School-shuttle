@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 # mtaMarylandBusTracking
 Some civic hacking on the MTA's Real-time Bus Data
+=======
+# School-shuttle
+school-shuttle-app
+>>>>>>> origin/master
 
 ##Project Goals:
 
 - Archival and sharing of Real-time data
+<<<<<<< HEAD
 - Reporting on the quality, consistency, and availabiity of real-time data from the MTA
 - Reporting on "timeliness" of individual bus routes by comparing real-time data to schedules
 - Building a more developer-friendly proxy API with good documentation so that third parties can build apps using this real-time data wihtout having to figure out the vendor's undocumented API
@@ -17,4 +23,10 @@ Some civic hacking on the MTA's Real-time Bus Data
 3. When a service change goes into effect such as the changes this week to the 11 and 20 routes use the real-time data to compare on-time performance pre- and post-service change to see if reliability improved.
 4. For a given employment hub map the commute shed as defined by the area of points of origin that a commuter could start from and reach the employment destination by a given time (say 9am) within 60 minutes or 90 minutes on public transportation.
 5.  Similar to #3 above, evaluate the on-time-performance and end-to-end run time reductions on a route after bus stops are eliminated or consolidated as was done on the 50, 53, 56, and 59 routes last fall.  We'd also like to do this for the Central Light Rail along the Howard Street corridor as signal prioritization and other improvements go into effect over the coming months.
+=======
+- Reporting on the quality, consistency, and availabiity of real-time data
+- Reporting on "timeliness" of individual bus routes by comparing real-time data to schedules
+- Building a more developer-friendly proxy API with good documentation so that third parties can build apps using this real-time data wihtout having to figure out the vendor's undocumented API
+
+>>>>>>> origin/master
 
